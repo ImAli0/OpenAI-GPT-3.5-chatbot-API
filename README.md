@@ -1,5 +1,7 @@
 # OpenAI-GPT-3.5-chatbot-API
-This project is about making a ChatGPT chatbot on a local computer through chatgpt's API
+This project is about making a ChatGPT chatbot on a local computer through chatgpt's API. There is OpenAI API available online for making such chatbot.
+But what is different with this mini project is that here the specific tool of OpenAI, openai module is not used. To be more exact, using traditional 
+libraries such as requests and json are used instead of openai and os libraries. 
 
 1. What were the reasons your team selected this option?
   Our team selected both options to get a higher score in midterm.
