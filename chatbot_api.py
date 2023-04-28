@@ -1,7 +1,7 @@
 import requests
 import json
 
-API_KEY = "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"
+API_KEY = "$API_KEY"
 API_URL = "https://api.openai.com/v1/chat/completions"
 
 print("Enter 'q' or 'quit' to quit the chat\n")
